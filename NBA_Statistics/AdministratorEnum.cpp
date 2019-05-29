@@ -1,0 +1,5 @@
+enum AdminStatus
+{
+	isAdmin,
+	generalUser
+};
